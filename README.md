@@ -17,6 +17,7 @@ Awesome
 ---
 #### documents:
 - [Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
+- [12 factor](https://12factor.net/)
 
 #### frameworks:
 - flowless.node
