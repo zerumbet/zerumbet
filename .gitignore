@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+public/bundle.*
+
+# IDE
+.vs_code
+.idea
+*.iml
