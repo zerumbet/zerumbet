@@ -31,12 +31,12 @@ Awesome
 
 Specification
 ---
-[规范]('./doc/specification')
+[规范](./doc/specification)
 
 
 API
 ---
-[API]('./doc/API')
+[API](./doc/API)
 
 
 License
