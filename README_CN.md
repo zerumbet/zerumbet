@@ -1,7 +1,7 @@
-FLOWLESS
+ZERUMBET
 ===
 
-**flowless** 是为`分布式节点`或`serverless`设计的工作流任务调度服务规范. 他包括一套人机可读的工作流描述语言和通用的调度查询接口定义.
+**zerumbet** 是为`分布式节点`或`serverless`设计的工作流任务调度服务规范. 他包括一套人机可读的工作流描述语言和通用的调度查询接口定义.
 
 Features
 ---
@@ -16,18 +16,20 @@ Features
 Awesome
 ---
 #### documents:
-- [Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
-- [12 factor](https://12factor.net/)
+- [UNIX 哲学](http://www.faqs.org/docs/artu/ch01s06.html)
+- [12 要素](https://12factor.net/)
 
 #### frameworks:
-- flowless.node
-- flowless.clj
+- zerumbet.node
+- zerumbet.java
+- zerumbet.clj
+- zerumbet.php
 
 #### tools:
-- flowless-test
+- zerumbet-test
 
 #### example:
-- flowless.node-express-start
+- zerumbet.node-express-start
 
 
 Specification
