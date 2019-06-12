@@ -1,7 +1,9 @@
 ZERUMBET
 ===
 
-**zerumbet** 是为`分布式节点`或`serverless`设计的工作流任务调度服务规范. 他包括一套人机可读的工作流描述语言和通用的调度查询接口定义.
+**zerumbet** 是为`分布式节点`或`serverless`设计的工作流调度服务的设计规范.
+他包括一套人机可读的工作流描述语言和通用的调度&查询接口.
+[详细信息](./doc).
 
 Features
 ---
@@ -30,17 +32,6 @@ Awesome
 
 #### example:
 - zerumbet.node-express-start
-
-
-Specification
----
-[规范](./doc/specification)
-
-
-API
----
-[API](./doc/API)
-
 
 License
 ---
