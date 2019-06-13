@@ -6,3 +6,4 @@ public/bundle.*
 .vs_code
 .idea
 *.iml
+assets
