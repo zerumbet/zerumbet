@@ -25,7 +25,6 @@ Awesome
 - zerumbet.node
 - zerumbet.java
 - zerumbet.clj
-- zerumbet.php
 
 #### tools:
 - zerumbet-test
