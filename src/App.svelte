@@ -1,15 +1,13 @@
-<script>
-	export let name;
-
-	export function sayHello () {
-		alert('hello');
-	}
+<script type="text/coffeescript">
+	export name = null;
+	export sayHello = () => alert('hello ' + name);
 </script>
 
-<style>
-	h1 {
+<style type="text/stylus">
+	h1
 		color: purple;
-	}
 </style>
 
-<h1 on:click={sayHello}>Hello {name}!</h1>
+<template lang="pug">
+	h1(on:click="{sayHello}") Hello {name}!
+</template>
