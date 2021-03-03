@@ -4,7 +4,7 @@
   "devDependencies": {
     "coffeescript": "^2.4.1",
     "npm-run-all": "^4.1.5",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "rollup": "^1.10.1",
     "rollup-plugin-commonjs": "^9.3.4",
     "rollup-plugin-livereload": "^1.0.0",
